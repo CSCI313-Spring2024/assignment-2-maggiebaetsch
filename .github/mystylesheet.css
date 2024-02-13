@@ -1,0 +1,36 @@
+ h1 {
+        text-align: center;
+        background-color: lightgray;
+      }
+      h2 {
+        text-align: center;
+        background-color: lightgray;
+      }
+      p,p2{
+        text-align: center;
+      }
+ 
+ img {
+    max-width: 300px;
+    max-height: 300px;
+    margin-right: 50px;
+   image-rendering: auto;
+ }
+ table {
+   border-collapse: collapse;
+   margin: 1em 0;
+  border: 1px solid;
+ }
+
+ th,
+ td {
+   border: 1px solid;
+   padding: 3px 6px;
+ }
+btn btn-info{
+  margin-right: 10px;
+  float: left;
+}
+        
+
+      
